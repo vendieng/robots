@@ -1,0 +1,15 @@
+C:\Users\Pink 2\source\repos\Robotsssss\bin\Debug\Robotsssss.exe.config
+C:\Users\Pink 2\source\repos\Robotsssss\bin\Debug\Robotsssss.exe
+C:\Users\Pink 2\source\repos\Robotsssss\bin\Debug\Robotsssss.pdb
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss.csprojAssemblyReference.cache
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\MainWindow.g.cs
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\App.g.cs
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss_MarkupCompile.cache
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss_MarkupCompile.lref
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\MainWindow.baml
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss.g.resources
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss.Properties.Resources.resources
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss.csproj.GenerateResource.cache
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss.csproj.CoreCompileInputs.cache
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss.exe
+C:\Users\Pink 2\source\repos\Robotsssss\obj\Debug\Robotsssss.pdb
