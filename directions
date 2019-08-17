@@ -1,0 +1,15 @@
+textbox
+listbox
+
+ column span 4 means it takes four columns
+
+lines are something you can put in a canvas
+canvas x to the right but starts at the top
+canvas y to the left but going down
+
+
+create new class called robot food with position x y 
+
+when the robot enters position where food is
+the food should move somewhere else randomly
+set grid size
