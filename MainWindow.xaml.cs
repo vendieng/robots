@@ -32,7 +32,13 @@ namespace Robotsssss
             InitializeComponent();
             DrawLines();
 
-            myRobot = new Robot(0, 0, 8);
+            Random randomGenerator = new Random();
+            int x = randomGenerator.Next(8);
+            int y = randomGenerator.Next(8);
+
+
+
+            myRobot = new Robot(x, y, 7);
             DrawRobot();
 
         }
